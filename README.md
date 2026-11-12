@@ -2,6 +2,6 @@
 
 PyHost hosting panel (FULL HOSTING).
 
-## Download
+## Access
 
 **Direct link:** https://host.privily.net
